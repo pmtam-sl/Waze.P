@@ -11,12 +11,12 @@ This project is part of an effort at Waze to increase growth. Typically, high re
 
 **The project entails:**
 
-### Exploratory Data Analysis
+### 1. Exploratory Data Analysis
 - Explore the provided dataset through comprehensive analysis using Python libraries.
 
-### Regression Modeling
+### 2. Regression Modeling
 - Utilize Python to construct a binomial logistic regression model for predicting churn.
 
-### Machine Learning Model Development
+### 3. Machine Learning Model Development
 - Develop and evaluate various machine learning models using Python, aiming to accurately forecast user churn.
 
